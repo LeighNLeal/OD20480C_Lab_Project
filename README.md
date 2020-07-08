@@ -14,7 +14,6 @@ After completing this lab, you will be able to:
 Describe the structure of the Contoso Conference web application.
 Use Visual Studio 2017 to examine the structure of a web application, run a web application, and modify a web application.
 
-##### **Exercise 1: Exploring the Contoso Conference Application**
-In this exercise, you will run the Contoso Conference web application and examine each of the functions it provides.
-##### **Exercise 2: Examining and Modifying the Contoso Conference Application**
-In this exercise, you will examine the Visual Studio 2017 project for the Contoso Conference application. You will see how the project is structured, and how the files and scripts for the project are organized into folders. You will then run the application again, make some modifications to the HTML markup and CSS, and view the results.
+**Exercise 1: Exploring the Contoso Conference Application:** run the Contoso Conference web application and examine each of the functions it provides.
+
+**Exercise 2: Examining and Modifying the Contoso Conference Application:** examine the Visual Studio 2017 project for the Contoso Conference application. You will see how the project is structured, and how the files and scripts for the project are organized into folders. You will then run the application again, make some modifications to the HTML markup and CSS, and view the results.
